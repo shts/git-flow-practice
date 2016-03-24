@@ -3,11 +3,11 @@ git-flow-practive
 
 practice for git-flow
 
-# feature
+### feature
 
 create branch
 
-`git flow feature start xxxxx`
+`git flow feature start ${branch-name}`
 
 
 
