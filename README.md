@@ -18,4 +18,6 @@ test-text
 
 ### Feature
 
+create new branch to remote. 
 
+`git push --set-upstream origin feature/new-feature`
